@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  🔹 React Developer | UI Designer | Python Enthusiast  
+  🔹 Frontend Developer | UI Designer | Python Enthusiast  
 </p>  
 
 <p align="center">  
