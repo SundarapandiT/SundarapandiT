@@ -33,7 +33,7 @@
 
 ---
 
-## **💡 Fun & Interactive Elements**  
+## **💡 Activity**  
 
 <p align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SundarapandiT&theme=react-dark" width="90%" />  
